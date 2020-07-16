@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/homeItem"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="Search" />
+    <item
+        android:id="@+id/mapItem"
+        android:icon="@drawable/ic_baseline_place_24"
+        android:title="Camera" />
+    <item
+        android:id="@+id/calendarItem"
+        android:icon="@drawable/ic_baseline_calendar_today_24"
+        android:title="Call" />
+    <item
+        android:id="@+id/petpageItem"
+        android:icon="@drawable/ic_baseline_pets_24"
+        android:title="Call" />
+
+</menu>
